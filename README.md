@@ -1,7 +1,6 @@
 # edge-detection
 👀 Computer Vision: Object Feature Detection & Classification
 <p></p>
-Part A: Edge Detection
 <p>
-Detecting edges, highlights & shadows in Computer Vision. Project explains the Fourier Frequency Transformation process & demonstrates its methods. 
+Here I present a discussion of how Fourier Frequency Transformation detects edges, highlights & shadows in Computer Vision.
 </p>
