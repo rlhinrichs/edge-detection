@@ -1,11 +1,12 @@
 # edge-detection
 👀 Computer Vision: Object Feature Detection
 
+- edge-detection.ipynb
+- data: image.jpg
+
 ---  
 
 ## Edge Detection / Shadow & Highlight Detection
-- edge-detection.ipynb
-- data/image.jpg
 
 Dependencies:
 - opencv-python (for cv2)
