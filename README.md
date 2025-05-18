@@ -1,5 +1,5 @@
 # edge-detection
-👀 Computer Vision: Object Feature Detection & Classification
+👀 Computer Vision: Object Feature Detection
 
 Dependencies:
 - opencv-python (for cv2)
