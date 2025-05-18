@@ -1,6 +1,8 @@
 # edge-detection
 👀 Computer Vision: Object Feature Detection
 
+---  
+
 ## Edge Detection / Shadow & Highlight Detection
 - edge-detection.ipynb
 - data/image.jpg
